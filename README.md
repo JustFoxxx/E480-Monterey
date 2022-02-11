@@ -1,6 +1,6 @@
 e480-monterey
-Hackintosh macOS Big Sur and Monterey ThinkPad E480
-`OpenCore 0.7.5`
+Hackintosh macOS Monterey для ThinkPad E480
+в качестве загрузчика используется `OpenCore 0.7.5`
 
 Проверено на:
 
